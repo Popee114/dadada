@@ -5495,11 +5495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Разработка\\testRabbitMq\\testRabbitMq.csproj",
+      "projectUniqueName": "D:\\Разработка\\dadada\\testRabbitMq.csproj",
       "projectName": "testRabbitMq",
-      "projectPath": "D:\\Разработка\\testRabbitMq\\testRabbitMq.csproj",
+      "projectPath": "D:\\Разработка\\dadada\\testRabbitMq.csproj",
       "packagesPath": "C:\\Users\\Popee\\.nuget\\packages\\",
-      "outputPath": "D:\\Разработка\\testRabbitMq\\obj\\",
+      "outputPath": "D:\\Разработка\\dadada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Popee\\AppData\\Roaming\\NuGet\\NuGet.Config",

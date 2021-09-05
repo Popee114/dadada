@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWRWVyX9buAk9opQlxpuH5ZsOtFT0uB4ycYhFHfIGZbON23P4H3IEPFxrxGgWIVvmS7YDI5/dltki7APNDYt7g==",
+  "dgSpecHash": "EKAieJzUL+WlkBbZ+y51jhZFOmeTIalcia7LyF0WnanxHMrHSZn3lAYsM00V0EzvTRRv1rnCaYhNFTCL0SRiqQ==",
   "success": true,
-  "projectFilePath": "D:\\Разработка\\testRabbitMq\\testRabbitMq.csproj",
+  "projectFilePath": "D:\\Разработка\\dadada\\testRabbitMq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Popee\\.nuget\\packages\\automatonymous\\5.1.2\\automatonymous.5.1.2.nupkg.sha512",
     "C:\\Users\\Popee\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",
