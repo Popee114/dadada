@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Popee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Popee\\.nuget\\packages"
+    ]
+  }
+}
